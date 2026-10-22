@@ -1,8 +1,8 @@
 # Steam Mod Remover
 
-Steam Mod Remover compares a Steam game's installation directory against local Steam depot manifests or a saved file list, then identifies and removes extra files (likely a mods files) that are not in the list. Due to how the program is designed, it may detect important files like save data as extra files. Please check the detected file list before proceeding the delete.
+Steam Mod Remover compares a Steam game's installation directory against local Steam depot manifests or a saved file list, then identifies and removes extra files (likely a mods files) that were not installed through Steam. Due to how the program is designed, it may detect important files like save data as extra files. Please check the detected file list before proceeding the delete.
 
-Steam 게임 설치 폴더를 로컬 Steam Depot manifest 또는 사용자가 저장한 기준 목록과 비교해, 기준에 없는 파일을 찾아 정리합니다. 작동 원리 상, 세이브 파일 등의 중요한 파일이 삭제될 수 있습니다. 파일 목록을 확인 후에 삭제를 진행해 주세요.
+Steam 게임 설치 폴더를 로컬 Steam Depot manifest 또는 사용자가 저장한 기준 목록과 비교해, 목록에 없는 (스팀을 통해 설치되지 않은) 파일을 찾아 정리합니다. 작동 원리 상, 세이브 파일 등의 중요한 파일이 삭제될 수 있습니다. 파일 목록을 확인 후에 삭제를 진행해 주세요.
 
 
 ### Basic usage
